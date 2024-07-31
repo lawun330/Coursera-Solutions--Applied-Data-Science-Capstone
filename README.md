@@ -7,3 +7,5 @@ There are additional files which are used within the code files.
 - `my_data1.db` is for `2A. jupyter-labs-eda-sql-coursera_sqllite.ipynb`
 - `spacex_launch_geo.csv` is for `3. lab_jupyter_launch_site_location.ipynb`
 - `spacex_launch_dash.csv` is for `spacex_dash_app.py`
+
+It may be required to install additional libraries and packages to run all code files.
